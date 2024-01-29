@@ -45,6 +45,9 @@ EDA involved exploring the water services data to answer key questions, such as:
 - Which water sources have broken infrastructure?
 - What is the cost of repairing each type of water source?
 
+  ![queues MJ](https://github.com/Bernadine05/Access-to-water-services/assets/151434609/e9ed4e8b-ad57-49a8-a9cf-ea4f246de43d)
+
+
 ### Data Analysis
 
 Code and features I worked with:
