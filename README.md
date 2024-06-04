@@ -14,11 +14,11 @@
 
 ## Project Overview
 
-A project Identifying the availability of clean drinking water from various water sources such as wells, taps and rivers for residents in an African country. The project also looks into their ease of access and problems people encounter while accessing water sources. Possible solutions and recommendations are also communicated.
+A project Identifying the availability of clean drinking water from various water sources such as wells, taps and rivers for residents in an African country. The project also looks into their ease of access and problems people encounter while accessing water sources. I'd also like to let you know about possible solutions and recommendations.
 
 ### Data Sources
 
-Md-water-services-data: The primary dataset used in this data analysis project is the "md-water-services-data.csv" file which is comprised of different tables giving detailed information about water services in the country.
+Md-water-services-data: The primary dataset used in this data analysis project is the "md-water-services-data.csv" file, which comprises different tables that give detailed information about water services in the country.
 Auditor-report-data: The secondary dataset used in this analysis is the "auditor-report.csv" file which contains an audit report on the database by an independent auditor and gives insights into inconsistencies in the database and records that need reviewing.
 
 ### Tools Used
